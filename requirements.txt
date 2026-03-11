@@ -1,5 +1,6 @@
-numpy==2.3.4
-scipy==1.16.2
-
-tensorflow==2.20.0
-matplotlib==3.10.8 
+numpy
+scipy
+tensorflow
+matplotlib
+statsmodels
+ipykernel
