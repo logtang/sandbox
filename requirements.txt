@@ -4,3 +4,7 @@ tensorflow
 matplotlib
 statsmodels
 ipykernel
+
+# For plotting in notebooks
+plotly
+nbformat
