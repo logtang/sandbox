@@ -1,6 +1,7 @@
 numpy
 scipy
 tensorflow
+scikit-learn
 matplotlib
 statsmodels
 ipykernel
